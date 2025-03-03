@@ -1,3 +1,3 @@
-# anole_AICG
+# anole_aicg
 
 
