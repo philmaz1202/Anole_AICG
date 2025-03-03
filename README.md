@@ -8,6 +8,11 @@
   [网站](https://www.aicganole.com)  ·  [演示站](https://chat.aicganole.com)
 
   ——基于下一代弹性架构的智能商业生态——
+
+  <img style="width:100%" src="./chat.png">
+  <img style="width:100%" src="./Gpts.png">
+  <img style="width:100%" src="./Midjourney.png">
+  <img style="width:100%" src="./SD.png">
 </div>
 
 
