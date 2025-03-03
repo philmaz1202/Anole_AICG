@@ -1,21 +1,29 @@
 <div align="center">
   <img style="width:50px" src="./logo.png">
   
-  # [Anole AICG](https://www.aicganole.com)
+  # [ANOLE AI](https://www.aicganole.com)
 
   #### 🚀【全栈式AI服务平台技术方案】🚀
 
   [网站](https://www.aicganole.com)  ·  [演示站](https://chat.aicganole.com)
 
   ——基于下一代弹性架构的智能商业生态——
-
-  <img style="width:100%" src="./chat.png">
-  <img style="width:100%" src="./Gpts.png">
-  <img style="width:100%" src="./Midjourney.png">
-  <img style="width:100%" src="./SD.png">
 </div>
 
-
+ ### ✨ AI对话
+  <img style="width:100%" src="./chat.png">
+  
+  
+  ### ✨ 高级应用
+  <img style="width:100%" src="./Gpts.png">
+  
+  
+  ### ✨ Midjourney
+  <img style="width:100%" src="./Midjourney.png">
+  
+  
+  ### ✨ Stable Diffusion
+  <img style="width:100%" src="./SD.png">
 
 ## 核心架构
 1. **高性能技术栈**
@@ -100,6 +108,11 @@
 4. **系统的兼容性加何?**
    - 我们的平台支持PC、移动端平板等设备, 和测究器(Chrome、FirefoxSafari等)兼容。
   
+## 💬 联系方式
+**联系我们了解更多全栈式AI服务平台部署方案**
+   - 微信：_ANOLE_AIGC
+   - 邮箱：aicganole@gmail.com
+
   
 
 
